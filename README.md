@@ -1,5 +1,7 @@
 # Star Field and 3D Gravity
 
+Prototype
+
 -EN-
 
 This project is a simple 3D starfield simulator. With a Turkish UI.
