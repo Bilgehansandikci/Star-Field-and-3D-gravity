@@ -31,7 +31,9 @@ Controls:
 Bu proje basit bir yıldız simülasyonudur.
 
 Temel özellikler:
+
 -Kübik ve homojen veya galaksi seklinde ve yoğun merkezli olacak şekilde bir yıldız tarlası oluşturabilir.
+
 -3D kütleçekimi simüle edebilir.
 
 3dtest.py ve classes3d.py'nin birlikte açılması gerekir.
