@@ -11,9 +11,13 @@ Instructions:
 -Only 3dtest.py and classes3d.py are enough for running the sim(run 3dtest.py).
 
 Controls:
-*Use arrow keys to rotate.
-*Use space for acceleration.
+
+-Use arrow keys to rotate.
+
+-Use space for acceleration.
+
 -Use shift for faster acceleration.
+
 -Use Ctrl for backwards acceleration.
 -Use keys "1","2","3" for increase frame rate/speed.
 
